@@ -1,1 +1,1 @@
-Website Link: http://bootcamp2020-day1.surge.sh/
+Website Link: http://bootcamp2020_day-1.surge.sh/
